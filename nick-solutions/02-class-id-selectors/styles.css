@@ -1,0 +1,24 @@
+*{
+    font-family: Verdana, "DejaVU", sans-serif;
+}
+
+.standard,
+.standard-var {
+    color: black;
+    background-color: lightcoral;
+}
+
+.standard-var {
+    font-size: 24px;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-bg {
+    background-color: greenyellow;
+    font-weight: bold;
+    font-size: 24px;
+}
